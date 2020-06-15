@@ -3,8 +3,8 @@
 
 ![Language](https://img.shields.io/badge/Language-C%2B%2B-important)&nbsp;
 [![License](https://img.shields.io/badge/License-MIT-informational)](./LICENSE.md)&nbsp;
-[![GitHub Stars](https://img.shields.io/github/stars/goncaloperes/Project-CodeIgniter-CMS.svg?style=social&label=Star&maxAge=2592000)](https://github.com/RajwardhanShinde/LeetCode-Solutions)
-[![GitHub Forks](https://img.shields.io/github/forks/goncaloperes/Project-CodeIgniter-CMS.svg?style=social&label=Fork&maxAge=2592000)](https://github.com/RajwardhanShinde/LeetCode-Solutions)
+[![GitHub Stars](https://img.shields.io/github/stars/RajwardhanShinde/LeetCode-Solutions.svg?style=social&label=Star&maxAge=2592000)](https://github.com/RajwardhanShinde/LeetCode-Solutions/stargazers)
+[![GitHub Forks](https://img.shields.io/github/forks/RajwardhanShinde/LeetCode-Solutions.svg?style=social&label=Fork&maxAge=2592000)](https://github.com/RajwardhanShinde/LeetCode-Solutions/network)
 
 
 ## Array
