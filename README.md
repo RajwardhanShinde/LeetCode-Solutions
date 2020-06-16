@@ -1,4 +1,4 @@
-# [LeetCode](https://leetcode.com/problemset/all/)
+# [LeetCode Solutions](https://leetcode.com/problemset/all/)
 
 
 ![Language](https://img.shields.io/badge/Language-C%2B%2B-important)&nbsp;
