@@ -2,10 +2,11 @@
 
 
 ![Language](https://img.shields.io/badge/Language-C%2B%2B-important)&nbsp;
-[![License](https://img.shields.io/badge/License-MIT-informational)](./LICENSE.md)&nbsp;
+![Programs](https://img.shields.io/badge/Programs-67-blueviolet)&nbsp;
 ![Update](https://img.shields.io/badge/Update-Daily-brightgreen)&nbsp;
+[![License](https://img.shields.io/badge/License-MIT-informational)](./LICENSE.md)&nbsp;
 
-## Array
+## Array 
 |  #  | Title           |  Solution       | Difficulty    |
 |-----|---------------- | --------------- |------------- |
 0442 | [Find All Duplicates in an Array](https://leetcode.com/problems/find-all-duplicates-in-an-array/) | [View](./Array/FindAllDuplicatesInAnArray.cpp) | Medium |||
@@ -68,8 +69,30 @@
 0904 | [Fruit Into Baskets](https://leetcode.com/problems/fruit-into-baskets/) | [View](./SlidingWindow/FruitsIntoBaskets.cpp) | Medium |||
 1052 | [Grumpy Bookstore Owner](https://leetcode.com/problems/grumpy-bookstore-owner/) | [View](./SlidingWindow/GrumpyBookstoreOwner.cpp) | Medium |||
 1004 | [Max Consecutive Ones III](https://leetcode.com/problems/max-consecutive-ones-iii/) | [View](./SlidingWindow/MaxConsecutiveOnesIII.cpp) | Medium |||
-1358 | [Number of Substrings Containing All Three Characters](https://leetcode.com/problems/number-of-substrings-containing-all-three-characters/) | [View](./SlidingWindow/NumberofSubstringsContainingAllThreeCharacters.cpp) | Medium |||
+1358 | [Number of Substrings Containing All Three Characters](https://leetcode.com/problems/number-of-substrings-containing-all-three-characters/) | [View](./SlidingWindow/NumberOfSubstringsContainingAllThreeCharacters.cpp) | Medium |||
 1234 | [Replace the Substring for Balanced String](https://leetcode.com/problems/replace-the-substring-for-balanced-string/) | [View](./SlidingWindow/ReplaceTheSubstringForBalancedString.cpp) | Medium |||
+
+## Tree
+|  #  | Title           |  Solution       | Difficulty    |
+|-----|---------------- | --------------- |------------- |
+0938 | [Range Sum of BST](https://leetcode.com/problems/range-sum-of-bst/) | [View](./Tree/RangeSumOfBST.cpp) | Easy |||
+0617 | [Merge Two Binary Trees](https://leetcode.com/problems/merge-two-binary-trees/) | [View](./Tree/MergeTwoBinaryTree.cpp) | Easy |||
+0700 | [Search in a Binary Search Tree](https://leetcode.com/problems/search-in-a-binary-search-tree/) | [View](./Tree/SearchInABinarySearchTree.cpp) | Easy |||
+0897 | [Increasing Order Search Tree](https://leetcode.com/problems/increasing-order-search-tree/) | [View](./Tree/IncreasingOrderSearchTree.cpp) | Easy |||
+0559 | [Maximum Depth of N-ary Tree](https://leetcode.com/problems/maximum-depth-of-n-ary-tree/) | [View](./Tree/MaximumDepthOfN-AryTree.cpp) | Easy |||
+0104 | [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/) | [View](./Tree/MaximumDepthOfBinaryTree.cpp) | Easy |||
+0226 | [Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/) | [View](./Tree/InvertBinaryTree.cpp) | Easy |||
+0530 | [Minimum Absolute Difference in BST](https://leetcode.com/problems/minimum-absolute-difference-in-bst/) | [View](./Tree/MinimumAbsoluteDifferenceInBST.cpp) | Easy |||
+0993 | [Cousins in Binary Tree](https://leetcode.com/problems/cousins-in-binary-tree/) | [View](./Tree/CousinsInBinaryTree.cpp) | Easy |||
+0783 | [Minimum Distance Between BST Nodes](https://leetcode.com/problems/minimum-distance-between-bst-nodes/) | [View](./Tree/MinimumDistanceBetweenBSTNodes.cpp) | Easy |||
+0543 | [Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/) | [View](./Tree/DiameterOfBinaryTree.cpp) | Easy |||
+0110 | [Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/) | [View](./Tree/BalancedBinaryTree.cpp) | Easy |||
+1008 | [Construct Binary Search Tree from Preorder Traversal](https://leetcode.com/problems/construct-binary-search-tree-from-preorder-traversal/) | [View](./Tree/ConstructBinarySearchTreeFromPreorderTraversal.cpp) | Medium |||
+1448 | [Count Good Nodes in Binary Tree](https://leetcode.com/problems/count-good-nodes-in-binary-tree/) | [View](./Tree/ConstructBinarySearchTreeFromPreorderTraversal.cpp) | Medium |||
+0889 | [Construct Binary Tree from Preorder and Postorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-postorder-traversal/) | [View](./Tree/ConstructBinaryTreeFromPreorderAndPostorderTraversal.cpp) | Medium |||
+0429 | [N-ary Tree Level Order Traversal](https://leetcode.com/problems/n-ary-tree-level-order-traversal/) | [View](./Tree/N-AryTreeLevelOrderTraversal.cpp) | Medium |||
+0230 | [Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/) | [View](./Tree/KthSmallestElementInABST.cpp) | Medium |||
+
 
 ## Union Find
 |  #  | Title           |  Solution       | Difficulty    |
