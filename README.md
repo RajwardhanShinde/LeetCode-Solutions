@@ -28,9 +28,53 @@
 1471 | [The k Strongest Values in an Array](https://leetcode.com/problems/the-k-strongest-values-in-an-array/) | [View](./Array/TheKStrongestValuesInAnArray.cpp) | Medium |||
 0941 | [Valid Mountain Array](https://leetcode.com/problems/valid-mountain-array/) | [View](./Array/ValidMountainArray.cpp) | Medium |||
 
-## DFS
+## DFS (Depth First Search)
 |  #  | Title           |  Solution       | Difficulty    |
 |-----|---------------- | --------------- |------------- |
 0200 | [Number of Islands](https://leetcode.com/problems/number-of-islands/) | [View](./DFS/NumberOfIslands.cpp) | Medium |||
-1020 | [Number of Enclaves](hhttps://leetcode.com/problems/number-of-enclaves/) | [View](./DFS/NumberOfEnclaves.cpp) | Medium |||
+1020 | [Number of Enclaves](https://leetcode.com/problems/number-of-enclaves/) | [View](./DFS/NumberOfEnclaves.cpp) | Medium |||
 
+## DP (Dynamic Programming)
+|  #  | Title           |  Solution       | Difficulty    |
+|-----|---------------- | --------------- |------------- |
+0322 | [Coin Change](https://leetcode.com/problems/coin-change/) | [View](./DP/CoinChange.cpp) | Medium |||
+0518 | [Coin Change 2](https://leetcode.com/problems/coin-change-2/) | [View](./DP/CoinChange2.cpp) | Medium |||
+0740 | [Delete and Earn](https://leetcode.com/problems/delete-and-earn/) | [View](./DP/DeleteAndEarn.cpp) | Medium |||
+0198 | [House Robber](https://leetcode.com/problems/house-robber/) | [View](./DP/HouseRobber.cpp) | Easy |||
+0300 | [Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/) | [View](./DP/LongestIncreasingSubsequence.cpp) | Medium |||
+1048 | [Longest String Chain](https://leetcode.com/problems/longest-string-chain/) | [View](./DP/LongestStringChain.cpp) | Medium |||
+0978 | [Longest Turbulent Subarray](https://leetcode.com/problems/longest-turbulent-subarray/) | [View](./DP/LongestTurbulentSubarray.cpp) | Medium |||
+1035 | [Uncrossed Lines](https://leetcode.com/problems/uncrossed-lines/) | [View](./DP/UncrossedLines.cpp) | Medium |||
+0062 | [Unique Paths](https://leetcode.com/problems/unique-paths/) | [View](./DP/UniquePaths.cpp) | Medium |||
+
+## Linked List
+|  #  | Title           |  Solution       | Difficulty    |
+|-----|---------------- | --------------- |------------- |
+0002 | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) | [View](./LinkedList/AddTwoNumbers.cpp) | Medium |||
+0445 | [Add Two Numbers II](https://leetcode.com/problems/add-two-numbers-ii/) | [View](./LinkedList/AddTwoNumbersII.cpp) | Medium |||
+0141 | [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/) | [View](./LinkedList/LinkedListCycleI.cpp) | Easy |||
+0142 | [Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/) | [View](./LinkedList/LinkedListCycleII.cpp) | Medium |||
+0876 | [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/) | [View](./LinkedList/MiddleOfTheLinkedList.cpp) | Easy |||
+1019 | [Next Greater Node In Linked List](https://leetcode.com/problems/next-greater-node-in-linked-list/) | [View](./LinkedList/NextGreaterNodeInLinkedList.cpp) | Medium |||
+0328 | [Odd Even Linked List](https://leetcode.com/problems/odd-even-linked-list/) | [View](./LinkedList/OddEvenLinkedList.cpp) | Medium |||
+0082 | [Remove Duplicates from Sorted List II](https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/) | [View](./LinkedList/RemoveDuplicatesFromSortedListII.cpp) | Medium |||
+0061 | [Rotate List](https://leetcode.com/problems/rotate-list/) | [View](./LinkedList/RotateList.cpp) | Medium |||
+0206 | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) | [View](./LinkedList/ReverseLinkedList.cpp) | Easy |||
+0024 | [Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/) | [View](./LinkedList/SwapNodeInPairs.cpp) | Medium |||
+
+## Sliding Window
+|  #  | Title           |  Solution       | Difficulty    |
+|-----|---------------- | --------------- |------------- |
+0904 | [Fruit Into Baskets](https://leetcode.com/problems/fruit-into-baskets/) | [View](./SlidingWindow/FruitsIntoBaskets.cpp) | Medium |||
+1052 | [Grumpy Bookstore Owner](https://leetcode.com/problems/grumpy-bookstore-owner/) | [View](./SlidingWindow/GrumpyBookstoreOwner.cpp) | Medium |||
+1004 | [Max Consecutive Ones III](https://leetcode.com/problems/max-consecutive-ones-iii/) | [View](./SlidingWindow/MaxConsecutiveOnesIII.cpp) | Medium |||
+1358 | [Number of Substrings Containing All Three Characters](https://leetcode.com/problems/number-of-substrings-containing-all-three-characters/) | [View](./SlidingWindow/NumberofSubstringsContainingAllThreeCharacters.cpp) | Medium |||
+1234 | [Replace the Substring for Balanced String](https://leetcode.com/problems/replace-the-substring-for-balanced-string/) | [View](./SlidingWindow/ReplaceTheSubstringForBalancedString.cpp) | Medium |||
+
+## Union Find
+|  #  | Title           |  Solution       | Difficulty    |
+|-----|---------------- | --------------- |------------- |
+0547 | [Friend Circles](https://leetcode.com/problems/friend-circles/) | [View](./UnionFind/FriendCircles.cpp) | Medium |||
+1319 | [Number of Operations to Make Network Connected](https://leetcode.com/problems/number-of-operations-to-make-network-connected/) | [View](./UnionFind/NumberOfOperationsToMakeNetworkConnected.cpp) | Medium |||
+0684 | [Redundant Connection](https://leetcode.com/problems/redundant-connection/) | [View](./UnionFind/RedundantConnection.cpp) | Medium |||
+0990 | [Satisfiability of Equality Equations](https://leetcode.com/problems/satisfiability-of-equality-equations/) | [View](./UnionFind/SatisfiabilityOfEqualityEquations.cpp) | Medium |||
