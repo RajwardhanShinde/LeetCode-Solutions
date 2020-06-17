@@ -2,7 +2,7 @@
 
 
 ![Language](https://img.shields.io/badge/Language-C%2B%2B-important)&nbsp;
-![Programs](https://img.shields.io/badge/Programs-67-blueviolet)&nbsp;
+![Programs](https://img.shields.io/badge/Programs-71-blueviolet)&nbsp;
 ![Update](https://img.shields.io/badge/Update-Daily-brightgreen)&nbsp;
 [![License](https://img.shields.io/badge/License-MIT-informational)](./LICENSE.md)&nbsp;
 
@@ -13,7 +13,7 @@
 1437 | [Check If All 1's Are at Least Length K Places Away](https://leetcode.com/problems/check-if-all-1s-are-at-least-length-k-places-away/) | [View](./Array/CheckIfAll1sAreAtLeastLengthKPlacesAway.cpp) | Medium |||
 1475 | [Final Prices With a Special Discount in a Shop](https://leetcode.com/problems/final-prices-with-a-special-discount-in-a-shop/) | [View](./Array/FinalPricesWithSpecialDiscountInAShop.cpp) | Easy |||
 1277 | [Count Square Submatrices with All Ones](https://leetcode.com/problems/count-square-submatrices-with-all-ones/) | [View](./Array/CountSquareSubmatricesWithAllOnes.cpp) | Medium |||
-1475 | [Final Prices With a Special Discount in a Shop](https://leetcode.com/problems/final-prices-with-a-special-discount-in-a-shop/) | [View](./Array/FinalPricesWithSpecialDiscoundInAShop.cpp) | Easy |||
+1475 | [Final Prices With a Special Discount in a Shop](https://leetcode.com/problems/final-prices-with-a-special-discount-in-a-shop/) | [View](./Array/FinalPricesWithSpecialDiscountInAShop.cpp) | Easy |||
 0287 | [Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/) | [View](./Array/FindTheDuplicateNumber.cpp) | Medium |||
 1481 | [Least Number of Unique Integers after K Removals](https://leetcode.com/problems/least-number-of-unique-integers-after-k-removals/) | [View](./Array/LeastNumberOfUniqueIntegersAfterKRemovals.cpp) | Medium |||
 0918 | [Maximum Sum Circular Subarray](https://leetcode.com/problems/maximum-sum-circular-subarray/) | [View](./Array/MaximumSumCircularSubarray.cpp) | Medium |||
@@ -34,6 +34,7 @@
 |-----|---------------- | --------------- |------------- |
 0200 | [Number of Islands](https://leetcode.com/problems/number-of-islands/) | [View](./DFS/NumberOfIslands.cpp) | Medium |||
 1020 | [Number of Enclaves](https://leetcode.com/problems/number-of-enclaves/) | [View](./DFS/NumberOfEnclaves.cpp) | Medium |||
+0130 | [Surrounded Regions](https://leetcode.com/problems/surrounded-regions/) | [View](./DFS/SurroundedRegions.cpp) | Medium |||
 
 ## DP (Dynamic Programming)
 |  #  | Title           |  Solution       | Difficulty    |
@@ -56,11 +57,14 @@
 0141 | [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/) | [View](./LinkedList/LinkedListCycleI.cpp) | Easy |||
 0142 | [Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/) | [View](./LinkedList/LinkedListCycleII.cpp) | Medium |||
 0876 | [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/) | [View](./LinkedList/MiddleOfTheLinkedList.cpp) | Easy |||
+0021 | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) | [View](./LinkedList/MergeTwoSortedLists.cpp) | Easy |||
 1019 | [Next Greater Node In Linked List](https://leetcode.com/problems/next-greater-node-in-linked-list/) | [View](./LinkedList/NextGreaterNodeInLinkedList.cpp) | Medium |||
 0328 | [Odd Even Linked List](https://leetcode.com/problems/odd-even-linked-list/) | [View](./LinkedList/OddEvenLinkedList.cpp) | Medium |||
 0082 | [Remove Duplicates from Sorted List II](https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/) | [View](./LinkedList/RemoveDuplicatesFromSortedListII.cpp) | Medium |||
 0061 | [Rotate List](https://leetcode.com/problems/rotate-list/) | [View](./LinkedList/RotateList.cpp) | Medium |||
 0206 | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) | [View](./LinkedList/ReverseLinkedList.cpp) | Easy |||
+0092 | [Reverse Linked List II](https://leetcode.com/problems/reverse-linked-list-ii/) | [View](./LinkedList/ReverseLinkedListII.cpp) | Medium |||
+0019 | [Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) | [View](./LinkedList/RemoveNthNodeFromEndOfList.cpp) | Medium |||
 0024 | [Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/) | [View](./LinkedList/SwapNodeInPairs.cpp) | Medium |||
 
 ## Sliding Window
