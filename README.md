@@ -2,7 +2,7 @@
 
 
 ![Language](https://img.shields.io/badge/Language-C%2B%2B-important)&nbsp;
-![Programs](https://img.shields.io/badge/Programs-71-blueviolet)&nbsp;
+![Programs](https://img.shields.io/badge/Programs-77-blueviolet)&nbsp;
 ![Update](https://img.shields.io/badge/Update-Daily-brightgreen)&nbsp;
 [![License](https://img.shields.io/badge/License-MIT-informational)](./LICENSE.md)&nbsp;
 
@@ -28,6 +28,16 @@
 1476 | [Subrectangle Queries](https://leetcode.com/problems/subrectangle-queries/) | [View](./Array/SubrectangleQueries.cpp) | Medium |||
 1471 | [The k Strongest Values in an Array](https://leetcode.com/problems/the-k-strongest-values-in-an-array/) | [View](./Array/TheKStrongestValuesInAnArray.cpp) | Medium |||
 0941 | [Valid Mountain Array](https://leetcode.com/problems/valid-mountain-array/) | [View](./Array/ValidMountainArray.cpp) | Medium |||
+
+## Binary Search
+|  #  | Title           |  Solution       | Difficulty    |
+|-----|---------------- | --------------- |------------- |
+0034 | [Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/) | [View](./BinarySearch/FindFirstAndLastPositionOfElementInSortedArray.cpp) | Medium |||
+0153 | [Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/) | [View](./BinarySearch/FindMinimumInRotatedSortedArray.cpp) | Medium |||
+0162 | [Find Peak Element](https://leetcode.com/problems/find-peak-element/) | [View](./BinarySearch/FindPeakElement.cpp) | Medium |||
+0744 | [Find Smallest Letter Greater Than Target](https://leetcode.com/problems/find-smallest-letter-greater-than-target/) | [View](./BinarySearch/FindSmallestLetterGreaterThanTarget.cpp) | Easy |||
+0275 | [H-Index II](https://leetcode.com/problems/h-index-ii/) | [View](./BinarySearch/H-IndexII.cpp) | Medium |||
+0852 | [Peak Index in a Mountain Array](https://leetcode.com/problems/peak-index-in-a-mountain-array/) | [View](./BinarySearch/PeakIndexInAMountainArray.cpp) | Easy |||
 
 ## DFS (Depth First Search)
 |  #  | Title           |  Solution       | Difficulty    |
