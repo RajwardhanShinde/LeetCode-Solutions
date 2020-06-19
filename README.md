@@ -2,7 +2,7 @@
 
 
 ![Language](https://img.shields.io/badge/Language-C%2B%2B-important)&nbsp;
-![Programs](https://img.shields.io/badge/Programs-77-blueviolet)&nbsp;
+![Programs](https://img.shields.io/badge/Programs-81-blueviolet)&nbsp;
 ![Update](https://img.shields.io/badge/Update-Daily-brightgreen)&nbsp;
 [![License](https://img.shields.io/badge/License-MIT-informational)](./LICENSE.md)&nbsp;
 
@@ -78,6 +78,12 @@
 0092 | [Reverse Linked List II](https://leetcode.com/problems/reverse-linked-list-ii/) | [View](./LinkedList/ReverseLinkedListII.cpp) | Medium |||
 0019 | [Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) | [View](./LinkedList/RemoveNthNodeFromEndOfList.cpp) | Medium |||
 0024 | [Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/) | [View](./LinkedList/SwapNodeInPairs.cpp) | Medium |||
+
+## Strings
+|  #  | Title           |  Solution       | Difficulty    |
+|-----|---------------- | --------------- |------------- |
+0028 | [Implement strStr() KMP Algorithm](https://leetcode.com/problems/implement-strstr/) | [View](./Strings/ImplementstrStr-KMP.cpp) | Easy |||
+0028 | [Implement strStr() Rabin Karp Algorithm](https://leetcode.com/problems/implement-strstr/) | [View](./Strings/ImplementstrStr-Rabin-Karp.cpp) | Easy |||
 
 ## Sliding Window
 |  #  | Title           |  Solution       | Difficulty    |
