@@ -37,7 +37,9 @@
 0162 | [Find Peak Element](https://leetcode.com/problems/find-peak-element/) | [View](./BinarySearch/FindPeakElement.cpp) | Medium |||
 0744 | [Find Smallest Letter Greater Than Target](https://leetcode.com/problems/find-smallest-letter-greater-than-target/) | [View](./BinarySearch/FindSmallestLetterGreaterThanTarget.cpp) | Easy |||
 0275 | [H-Index II](https://leetcode.com/problems/h-index-ii/) | [View](./BinarySearch/H-IndexII.cpp) | Medium |||
+1482 | [Minimum Number of Days to Make m Bouquets](https://leetcode.com/problems/minimum-number-of-days-to-make-m-bouquets/) | [View](./BinarySearch/MinimumNumberOfDaysToMakeMBouquets.cpp) | Medium |||
 0852 | [Peak Index in a Mountain Array](https://leetcode.com/problems/peak-index-in-a-mountain-array/) | [View](./BinarySearch/PeakIndexInAMountainArray.cpp) | Easy |||
+1300 | [Sum of Mutated Array Closest to Target](https://leetcode.com/problems/sum-of-mutated-array-closest-to-target/) | [View](./BinarySearch/SumOfMutatedArrayClosestToTarget.cpp) | Medium |||
 
 ## DFS (Depth First Search)
 |  #  | Title           |  Solution       | Difficulty    |
