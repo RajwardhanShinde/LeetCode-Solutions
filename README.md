@@ -5,8 +5,8 @@
 ![Programs](https://img.shields.io/badge/Programs-81-blueviolet)&nbsp;
 ![Update](https://img.shields.io/badge/Update-Daily-brightgreen)&nbsp;
 [![License](https://img.shields.io/badge/License-MIT-informational)](./LICENSE.md)&nbsp;<br>
-[![GitHub Stars](https://img.shields.io/github/stars/goncaloperes/Project-CodeIgniter-CMS.svg?style=social&label=Star&maxAge=2592000)](https://github.com/goncaloperes/Project-CodeIgniter-CMS/stargazers)
-[![GitHub Forks](https://img.shields.io/github/forks/goncaloperes/Project-CodeIgniter-CMS.svg?style=social&label=Fork&maxAge=2592000)](https://github.com/goncaloperes/Project-CodeIgniter-CMS/network)
+[![GitHub Stars](https://img.shields.io/github/stars/RajwardhanShinde/LeetCode-Solutions.svg?style=social&label=Star&maxAge=2592000)](https://github.com/RajwardhanShinde/LeetCode-Solutions/stargazers)
+[![GitHub Forks](https://img.shields.io/github/forks/RajwardhanShinde/LeetCode-Solutions.svg?style=social&label=Fork&maxAge=2592000)](https://github.com/RajwardhanShinde/LeetCode-Solutions/network)
 
 ## Array 
 |  #  | Title           |  Solution       | Difficulty    |
