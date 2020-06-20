@@ -5,7 +5,7 @@
 ![Programs](https://img.shields.io/badge/Programs-81-blueviolet)&nbsp;
 ![Update](https://img.shields.io/badge/Update-Daily-brightgreen)&nbsp;
 [![License](https://img.shields.io/badge/License-MIT-informational)](./LICENSE.md)&nbsp;<br>
-[![GitHub stars](https://img.shields.io/github/stars/Naereen/StrapDown.js.svg?style=social&label=Star&maxAge=2592000)](https://Github.com/RajwardhanShinde/LeetCode-Solutions/stargazers/)
+[![GitHub stars](https://img.shields.io/github/stars/RajwardhanShinde/LeetCode-Solutions.svg?style=social&label=Star&maxAge=2592000)](https://Github.com/RajwardhanShinde/LeetCode-Solutions/stargazers/)
 
 ## Array 
 |  #  | Title           |  Solution       | Difficulty    |
