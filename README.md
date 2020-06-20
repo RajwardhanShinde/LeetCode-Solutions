@@ -5,8 +5,7 @@
 ![Programs](https://img.shields.io/badge/Programs-81-blueviolet)&nbsp;
 ![Update](https://img.shields.io/badge/Update-Daily-brightgreen)&nbsp;
 [![License](https://img.shields.io/badge/License-MIT-informational)](./LICENSE.md)&nbsp;<br>
-[![GitHub Stars](https://img.shields.io/github/stars/RajwardhanShinde/LeetCode-Solutions.svg?style=social&label=Star&maxAge=2592000)](https://github.com/RajwardhanShinde/LeetCode-Solutions/stargazers)
-[![GitHub Forks](https://img.shields.io/github/forks/RajwardhanShinde/LeetCode-Solutions.svg?style=social&label=Fork&maxAge=2592000)](https://github.com/RajwardhanShinde/LeetCode-Solutions/network)
+[![GitHub stars](https://img.shields.io/github/stars/Naereen/StrapDown.js.svg?style=social&label=Star&maxAge=2592000)](https://Github.com/RajwardhanShinde/LeetCode-Solutions/stargazers/)
 
 ## Array 
 |  #  | Title           |  Solution       | Difficulty    |
