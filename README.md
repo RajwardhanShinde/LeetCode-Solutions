@@ -2,9 +2,9 @@
 
 
 ![Language](https://img.shields.io/badge/Language-C%2B%2B-important)&nbsp;
-![Programs](https://img.shields.io/badge/Programs-81-blueviolet)&nbsp;
+![Programs](https://img.shields.io/badge/Programs-83-blueviolet)&nbsp;
 ![Update](https://img.shields.io/badge/Update-Daily-brightgreen)&nbsp;
-[![License](https://img.shields.io/badge/License-MIT-informational)](./LICENSE.md)&nbsp;<br>
+[![License](https://img.shields.io/badge/License-MIT-informational)](./LICENSE.md)&nbsp;<br><br>
 [![GitHub watchers](https://img.shields.io/github/watchers/RajwardhanShinde/LeetCode-Solutions?style=social&label=Watch&maxAge=2592000)](https://Github.com/RajwardhanShinde/LeetCode-Solutions/watchers/)&nbsp;
 [![GitHub stars](https://img.shields.io/github/stars/RajwardhanShinde/LeetCode-Solutions?style=social&label=Star&maxAge=2592000)](https://Github.com/RajwardhanShinde/LeetCode-Solutions/stargazers/)&nbsp;
 [![GitHub forks](https://img.shields.io/github/forks/RajwardhanShinde/LeetCode-Solutions?style=social&label=Fork&maxAge=2592000)](https://Github.com/RajwardhanShinde/LeetCode-Solutions/network/)
@@ -85,8 +85,10 @@
 ## Strings
 |  #  | Title           |  Solution       | Difficulty    |
 |-----|---------------- | --------------- |------------- |
-0028 | [Implement strStr() KMP Algorithm](https://leetcode.com/problems/implement-strstr/) | [View](./Strings/ImplementstrStr-KMP.cpp) | Easy |||
-0028 | [Implement strStr() Rabin Karp Algorithm](https://leetcode.com/problems/implement-strstr/) | [View](./Strings/ImplementstrStr-Rabin-Karp.cpp) | Easy |||
+0028 | [Implement strStr() - KMP Algorithm](https://leetcode.com/problems/implement-strstr/) | [View](./Strings/ImplementstrStr-KMP.cpp) | Easy |||
+0028 | [Implement strStr() - Rabin Karp Algorithm](https://leetcode.com/problems/implement-strstr/) | [View](./Strings/ImplementstrStr-Rabin-Karp.cpp) | Easy |||
+0459 | [Repeated Substring Pattern - KMP Algorithm](https://leetcode.com/problems/repeated-substring-pattern/) | [View](./Strings/RepeatedSubstringPattern.cpp) | Easy |||
+0686 | [Repeated String Match - KMP Algorithm](https://leetcode.com/problems/repeated-string-match/) | [View](./Strings/RepeatedStringMatch.cpp) | Easy |||
 
 ## Sliding Window
 |  #  | Title           |  Solution       | Difficulty    |
