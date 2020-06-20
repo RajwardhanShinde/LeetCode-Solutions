@@ -5,9 +5,9 @@
 ![Programs](https://img.shields.io/badge/Programs-81-blueviolet)&nbsp;
 ![Update](https://img.shields.io/badge/Update-Daily-brightgreen)&nbsp;
 [![License](https://img.shields.io/badge/License-MIT-informational)](./LICENSE.md)&nbsp;<br>
-[![GitHub watchers](https://img.shields.io/github/watchers/RajwardhanShinde/LeetCode-Solutions?style=social&label=Watch&maxAge=2592000)](https://Github.com/RajwardhanShinde/LeetCode-Solutions/watchers/)&nbsp;
-[![GitHub stars](https://img.shields.io/github/stars/RajwardhanShinde/LeetCode-Solutions?style=social&label=Star&maxAge=2592000)](https://Github.com/RajwardhanShinde/LeetCode-Solutions/stargazers/)&nbsp;
-[![GitHub forks](https://img.shields.io/github/forks/RajwardhanShinde/LeetCode-Solutions?style=social&label=Fork&maxAge=2592000)](https://Github.com/RajwardhanShinde/LeetCode-Solutions/network/)
+[![GitHub watchers](https://img.shields.io/github/watchers/RajwardhanShinde/LeetCode-Solutions?style=social&label=Watch&maxAge=2592000)](https://github.com/RajwardhanShinde/LeetCode-Solutions/watchers/)&nbsp;
+[![GitHub stars](https://img.shields.io/github/stars/RajwardhanShinde/LeetCode-Solutions?style=social&label=Star&maxAge=2592000)](https://github.com/RajwardhanShinde/LeetCode-Solutions/stargazers/)&nbsp;
+[![GitHub forks](https://img.shields.io/github/forks/RajwardhanShinde/LeetCode-Solutions?style=social&label=Fork&maxAge=2592000)](https://github.com/RajwardhanShinde/LeetCode-Solutions/network/)
 
 ## Array 
 |  #  | Title           |  Solution       | Difficulty    |
