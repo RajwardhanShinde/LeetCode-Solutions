@@ -5,9 +5,9 @@
 ![Programs](https://img.shields.io/badge/Programs-83-blueviolet)&nbsp;
 ![Update](https://img.shields.io/badge/Update-Daily-brightgreen)&nbsp;
 [![License](https://img.shields.io/badge/License-MIT-informational)](./LICENSE.md)&nbsp;<br><br>
-[![GitHub watchers](https://img.shields.io/github/watchers/RajwardhanShinde/LeetCode-Solutions?style=social&label=Watch&maxAge=2592000)](https://Github.com/RajwardhanShinde/LeetCode-Solutions/watchers/)&nbsp;
-[![GitHub stars](https://img.shields.io/github/stars/RajwardhanShinde/LeetCode-Solutions?style=social&label=Star&maxAge=2592000)](https://Github.com/RajwardhanShinde/LeetCode-Solutions/stargazers/)&nbsp;
-[![GitHub forks](https://img.shields.io/github/forks/RajwardhanShinde/LeetCode-Solutions?style=social&label=Fork&maxAge=2592000)](https://Github.com/RajwardhanShinde/LeetCode-Solutions/network/)
+![Easy](https://img.shields.io/badge/Easy-28-success)&nbsp;
+![Medium](https://img.shields.io/badge/Medium-57-orange)&nbsp;
+![Hard](https://img.shields.io/badge/Hard-3-red)
 
 ## Array 
 |  #  | Title           |  Solution       | Difficulty    |
@@ -56,8 +56,12 @@
 |-----|---------------- | --------------- |------------- |
 0322 | [Coin Change](https://leetcode.com/problems/coin-change/) | [View](./DP/CoinChange.cpp) | Medium |||
 0518 | [Coin Change 2](https://leetcode.com/problems/coin-change-2/) | [View](./DP/CoinChange2.cpp) | Medium |||
+0338 | [Counting Bits](https://leetcode.com/problems/counting-bits/) | [View](./DP/CountingBits.cpp) | Medium |||
 0740 | [Delete and Earn](https://leetcode.com/problems/delete-and-earn/) | [View](./DP/DeleteAndEarn.cpp) | Medium |||
+0174 | [Dungeon Game](https://leetcode.com/problems/dungeon-game/) | [View](./DP/DungeonGame-Memoization.cpp) | Hard |||
+0174 | [Dungeon Game](https://leetcode.com/problems/dungeon-game/) | [View](./DP/DungeonGame-Tabulation.cpp) | Hard |||
 0198 | [House Robber](https://leetcode.com/problems/house-robber/) | [View](./DP/HouseRobber.cpp) | Easy |||
+0368 | [Largest Divisble Subset](https://leetcode.com/problems/largest-divisble-subset/) | [View](./DP/LargestDivisbleSubset.cpp) | Medium |||
 0300 | [Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/) | [View](./DP/LongestIncreasingSubsequence.cpp) | Medium |||
 1048 | [Longest String Chain](https://leetcode.com/problems/longest-string-chain/) | [View](./DP/LongestStringChain.cpp) | Medium |||
 0978 | [Longest Turbulent Subarray](https://leetcode.com/problems/longest-turbulent-subarray/) | [View](./DP/LongestTurbulentSubarray.cpp) | Medium |||
