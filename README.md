@@ -2,11 +2,11 @@
 
 
 ![Language](https://img.shields.io/badge/Language-C%2B%2B-important)&nbsp;
-![Programs](https://img.shields.io/badge/Programs-83-blueviolet)&nbsp;
+![Programs](https://img.shields.io/badge/Programs-88-blueviolet)&nbsp;
 ![Update](https://img.shields.io/badge/Update-Daily-brightgreen)&nbsp;
 [![License](https://img.shields.io/badge/License-MIT-informational)](./LICENSE.md)&nbsp;<br><br>
 ![Easy](https://img.shields.io/badge/Easy-28-success)&nbsp;
-![Medium](https://img.shields.io/badge/Medium-57-orange)&nbsp;
+![Medium](https://img.shields.io/badge/Medium-58-orange)&nbsp;
 ![Hard](https://img.shields.io/badge/Hard-3-red)
 
 ## Array 
@@ -18,7 +18,9 @@
 1277 | [Count Square Submatrices with All Ones](https://leetcode.com/problems/count-square-submatrices-with-all-ones/) | [View](./Array/CountSquareSubmatricesWithAllOnes.cpp) | Medium |||
 1475 | [Final Prices With a Special Discount in a Shop](https://leetcode.com/problems/final-prices-with-a-special-discount-in-a-shop/) | [View](./Array/FinalPricesWithSpecialDiscountInAShop.cpp) | Easy |||
 0287 | [Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/) | [View](./Array/FindTheDuplicateNumber.cpp) | Medium |||
-1481 | [Least Number of Unique Integers after K Removals](https://leetcode.com/problems/least-number-of-unique-integers-after-k-removals/) | [View](./Array/LeastNumberOfUniqueIntegersAfterKRemovals.cpp) | Medium |||
+1481 | [Least Number of Unique Integers after K Removals](https://leetcode.com/problems/least-number-of-unique-integers-after-k-removals/) | [View](./Array/LeastNumberOfUniqueIntegersAfterKRemovals.cpp) | Medium 
+|||
+0004 | [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/) | [View](./Array/MedianOfTwoSortedArrays.cpp) | Hard |||
 0918 | [Maximum Sum Circular Subarray](https://leetcode.com/problems/maximum-sum-circular-subarray/) | [View](./Array/MaximumSumCircularSubarray.cpp) | Medium |||
 0496 | [Next Greater Element I](https://leetcode.com/problems/next-greater-element-i/) | [View](./Array/NextGreaterElementI.cpp) | Easy |||
 0503 | [Next Greater Element II](https://leetcode.com/problems/next-greater-element-ii/) | [View](./Array/NextGreaterElementII.cpp) | Medium |||
@@ -93,6 +95,7 @@
 0028 | [Implement strStr() - Rabin Karp Algorithm](https://leetcode.com/problems/implement-strstr/) | [View](./Strings/ImplementstrStr-Rabin-Karp.cpp) | Easy |||
 0459 | [Repeated Substring Pattern - KMP Algorithm](https://leetcode.com/problems/repeated-substring-pattern/) | [View](./Strings/RepeatedSubstringPattern.cpp) | Easy |||
 0686 | [Repeated String Match - KMP Algorithm](https://leetcode.com/problems/repeated-string-match/) | [View](./Strings/RepeatedStringMatch.cpp) | Easy |||
+1487 | [Making File Names Unique](https://leetcode.com/problems/making-file-names-unique/) | [View](./Strings/MakingFileNamesUnique.cpp) | Medium |||
 
 ## Sliding Window
 |  #  | Title           |  Solution       | Difficulty    |
