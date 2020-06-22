@@ -60,8 +60,8 @@
 0518 | [Coin Change 2](https://leetcode.com/problems/coin-change-2/) | [View](./DP/CoinChange2.cpp) | Medium |||
 0338 | [Counting Bits](https://leetcode.com/problems/counting-bits/) | [View](./DP/CountingBits.cpp) | Medium |||
 0740 | [Delete and Earn](https://leetcode.com/problems/delete-and-earn/) | [View](./DP/DeleteAndEarn.cpp) | Medium |||
-0174 | [Dungeon Game](https://leetcode.com/problems/dungeon-game/) | [View](./DP/DungeonGame-Memoization.cpp) | Hard |||
-0174 | [Dungeon Game](https://leetcode.com/problems/dungeon-game/) | [View](./DP/DungeonGame-Tabulation.cpp) | Hard |||
+0174 | [Dungeon Game - Memoization](https://leetcode.com/problems/dungeon-game/) | [View](./DP/DungeonGame-Memoization.cpp) | Hard |||
+0174 | [Dungeon Game - Tabulation](https://leetcode.com/problems/dungeon-game/) | [View](./DP/DungeonGame-Tabulation.cpp) | Hard |||
 0198 | [House Robber](https://leetcode.com/problems/house-robber/) | [View](./DP/HouseRobber.cpp) | Easy |||
 0368 | [Largest Divisble Subset](https://leetcode.com/problems/largest-divisble-subset/) | [View](./DP/LargestDivisbleSubset.cpp) | Medium |||
 0300 | [Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/) | [View](./DP/LongestIncreasingSubsequence.cpp) | Medium |||
