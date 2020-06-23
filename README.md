@@ -2,11 +2,11 @@
 
 
 ![Language](https://img.shields.io/badge/Language-C%2B%2B-important)&nbsp;
-![Programs](https://img.shields.io/badge/Programs-89-blueviolet)&nbsp;
+![Programs](https://img.shields.io/badge/Programs-91-blueviolet)&nbsp;
 ![Update](https://img.shields.io/badge/Update-Daily-brightgreen)&nbsp;
 [![License](https://img.shields.io/badge/License-MIT-informational)](./LICENSE.md)&nbsp;<br><br>
 ![Easy](https://img.shields.io/badge/Easy-28-success)&nbsp;
-![Medium](https://img.shields.io/badge/Medium-58-orange)&nbsp;
+![Medium](https://img.shields.io/badge/Medium-60-orange)&nbsp;
 ![Hard](https://img.shields.io/badge/Hard-3-red)
 
 ## Array 
@@ -75,6 +75,7 @@
 |-----|---------------- | --------------- |------------- |
 0002 | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) | [View](./LinkedList/AddTwoNumbers.cpp) | Medium |||
 0445 | [Add Two Numbers II](https://leetcode.com/problems/add-two-numbers-ii/) | [View](./LinkedList/AddTwoNumbersII.cpp) | Medium |||
+0707 | [Design Linked List](https://leetcode.com/problems/design-linked-list/) | [View](./LinkedList/DesignLinkedList.cpp) | Medium |||
 0141 | [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/) | [View](./LinkedList/LinkedListCycleI.cpp) | Easy |||
 0142 | [Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/) | [View](./LinkedList/LinkedListCycleII.cpp) | Medium |||
 0876 | [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/) | [View](./LinkedList/MiddleOfTheLinkedList.cpp) | Easy |||
@@ -121,6 +122,7 @@
 0783 | [Minimum Distance Between BST Nodes](https://leetcode.com/problems/minimum-distance-between-bst-nodes/) | [View](./Tree/MinimumDistanceBetweenBSTNodes.cpp) | Easy |||
 0543 | [Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/) | [View](./Tree/DiameterOfBinaryTree.cpp) | Easy |||
 0110 | [Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/) | [View](./Tree/BalancedBinaryTree.cpp) | Easy |||
+0222 | [Count Complete Tree Nodes](https://leetcode.com/problems/count-complete-tree-nodes/) | [View](./Tree/CountCompleteTreeNodes.cpp) | Medium |||
 1008 | [Construct Binary Search Tree from Preorder Traversal](https://leetcode.com/problems/construct-binary-search-tree-from-preorder-traversal/) | [View](./Tree/ConstructBinarySearchTreeFromPreorderTraversal.cpp) | Medium |||
 1448 | [Count Good Nodes in Binary Tree](https://leetcode.com/problems/count-good-nodes-in-binary-tree/) | [View](./Tree/ConstructBinarySearchTreeFromPreorderTraversal.cpp) | Medium |||
 0889 | [Construct Binary Tree from Preorder and Postorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-postorder-traversal/) | [View](./Tree/ConstructBinaryTreeFromPreorderAndPostorderTraversal.cpp) | Medium |||
