@@ -2,11 +2,11 @@
 
 
 ![Language](https://img.shields.io/badge/Language-C%2B%2B-important)&nbsp;
-![Programs](https://img.shields.io/badge/Programs-91-blueviolet)&nbsp;
+![Programs](https://img.shields.io/badge/Programs-95-blueviolet)&nbsp;
 ![Update](https://img.shields.io/badge/Update-Daily-brightgreen)&nbsp;
 [![License](https://img.shields.io/badge/License-MIT-informational)](./LICENSE.md)&nbsp;<br><br>
-![Easy](https://img.shields.io/badge/Easy-28-success)&nbsp;
-![Medium](https://img.shields.io/badge/Medium-60-orange)&nbsp;
+![Easy](https://img.shields.io/badge/Easy-30-success)&nbsp;
+![Medium](https://img.shields.io/badge/Medium-62-orange)&nbsp;
 ![Hard](https://img.shields.io/badge/Hard-3-red)
 
 ## Array 
@@ -97,6 +97,14 @@
 0459 | [Repeated Substring Pattern - KMP Algorithm](https://leetcode.com/problems/repeated-substring-pattern/) | [View](./Strings/RepeatedSubstringPattern.cpp) | Easy |||
 0686 | [Repeated String Match - KMP Algorithm](https://leetcode.com/problems/repeated-string-match/) | [View](./Strings/RepeatedStringMatch.cpp) | Easy |||
 1487 | [Making File Names Unique](https://leetcode.com/problems/making-file-names-unique/) | [View](./Strings/MakingFileNamesUnique.cpp) | Medium |||
+
+## Stack
+|  #  | Title           |  Solution       | Difficulty    |
+|-----|---------------- | --------------- |------------- |
+1381 | [Design a Stack With Increment Operation](https://leetcode.com/problems/design-a-stack-with-increment-operation/) | [View](./Stack/DesignAStackWithIncrementOperation.cpp) | Medium |||
+0146 | [LRU Cache](https://leetcode.com/problems/lru-cache/) | [View](./Stack/LRUCache.cpp) | Medium |||
+0232 | [Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/) | [View](./Stack/ImplementQueueUsingStacks.cpp) | Easy |||
+0155 | [Min Stack](https://leetcode.com/problems/min-stack/) | [View](./Stack/MinStack.cpp) | Easy |||
 
 ## Sliding Window
 |  #  | Title           |  Solution       | Difficulty    |
