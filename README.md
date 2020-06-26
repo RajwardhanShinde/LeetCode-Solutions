@@ -2,11 +2,11 @@
 
 
 ![Language](https://img.shields.io/badge/Language-C%2B%2B-important)&nbsp;
-![Programs](https://img.shields.io/badge/Programs-95-blueviolet)&nbsp;
+![Programs](https://img.shields.io/badge/Programs-100-blueviolet)&nbsp;
 ![Update](https://img.shields.io/badge/Update-Daily-brightgreen)&nbsp;
 [![License](https://img.shields.io/badge/License-MIT-informational)](./LICENSE.md)&nbsp;<br><br>
-![Easy](https://img.shields.io/badge/Easy-30-success)&nbsp;
-![Medium](https://img.shields.io/badge/Medium-62-orange)&nbsp;
+![Easy](https://img.shields.io/badge/Easy-32-success)&nbsp;
+![Medium](https://img.shields.io/badge/Medium-65-orange)&nbsp;
 ![Hard](https://img.shields.io/badge/Hard-3-red)
 
 ## Array 
@@ -14,6 +14,8 @@
 |-----|---------------- | --------------- |------------- |
 0442 | [Find All Duplicates in an Array](https://leetcode.com/problems/find-all-duplicates-in-an-array/) | [View](./Array/FindAllDuplicatesInAnArray.cpp) | Medium |||
 1437 | [Check If All 1's Are at Least Length K Places Away](https://leetcode.com/problems/check-if-all-1s-are-at-least-length-k-places-away/) | [View](./Array/CheckIfAll1sAreAtLeastLengthKPlacesAway.cpp) | Medium |||
+0706 | [Design Hash Map](https://leetcode.com/problems/design-hashmap/) | [View](./Array/DesignHashMap.cpp) | Easy |||
+0705 | [Design Hash Set](https://leetcode.com/problems/design-hashset/) | [View](./Array/DesignHashSet.cpp) | Easy |||
 1475 | [Final Prices With a Special Discount in a Shop](https://leetcode.com/problems/final-prices-with-a-special-discount-in-a-shop/) | [View](./Array/FinalPricesWithSpecialDiscountInAShop.cpp) | Easy |||
 1277 | [Count Square Submatrices with All Ones](https://leetcode.com/problems/count-square-submatrices-with-all-ones/) | [View](./Array/CountSquareSubmatricesWithAllOnes.cpp) | Medium |||
 1475 | [Final Prices With a Special Discount in a Shop](https://leetcode.com/problems/final-prices-with-a-special-discount-in-a-shop/) | [View](./Array/FinalPricesWithSpecialDiscountInAShop.cpp) | Easy |||
@@ -92,6 +94,7 @@
 ## Strings
 |  #  | Title           |  Solution       | Difficulty    |
 |-----|---------------- | --------------- |------------- |
+1433 | [Check If a String Can Break Another String](https://leetcode.com/problems/check-if-a-string-can-break-another-string/) | [View](./Strings/CheckIfAStringCanBreakAnotherString.cpp) | Medium |||
 0028 | [Implement strStr() - KMP Algorithm](https://leetcode.com/problems/implement-strstr/) | [View](./Strings/ImplementstrStr-KMP.cpp) | Easy |||
 0028 | [Implement strStr() - Rabin Karp Algorithm](https://leetcode.com/problems/implement-strstr/) | [View](./Strings/ImplementstrStr-Rabin-Karp.cpp) | Easy |||
 0459 | [Repeated Substring Pattern - KMP Algorithm](https://leetcode.com/problems/repeated-substring-pattern/) | [View](./Strings/RepeatedSubstringPattern.cpp) | Easy |||
@@ -121,6 +124,7 @@
 0938 | [Range Sum of BST](https://leetcode.com/problems/range-sum-of-bst/) | [View](./Tree/RangeSumOfBST.cpp) | Easy |||
 0617 | [Merge Two Binary Trees](https://leetcode.com/problems/merge-two-binary-trees/) | [View](./Tree/MergeTwoBinaryTree.cpp) | Easy |||
 0700 | [Search in a Binary Search Tree](https://leetcode.com/problems/search-in-a-binary-search-tree/) | [View](./Tree/SearchInABinarySearchTree.cpp) | Easy |||
+0129 | [Sum Root to Leaf Numbers](https://leetcode.com/problems/sum-root-to-leaf-numbers/) | [View](./Tree/SumRootToLeafNumbers.cpp) | Medium |||
 0897 | [Increasing Order Search Tree](https://leetcode.com/problems/increasing-order-search-tree/) | [View](./Tree/IncreasingOrderSearchTree.cpp) | Easy |||
 0559 | [Maximum Depth of N-ary Tree](https://leetcode.com/problems/maximum-depth-of-n-ary-tree/) | [View](./Tree/MaximumDepthOfN-AryTree.cpp) | Easy |||
 0104 | [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/) | [View](./Tree/MaximumDepthOfBinaryTree.cpp) | Easy |||
@@ -136,7 +140,7 @@
 0889 | [Construct Binary Tree from Preorder and Postorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-postorder-traversal/) | [View](./Tree/ConstructBinaryTreeFromPreorderAndPostorderTraversal.cpp) | Medium |||
 0429 | [N-ary Tree Level Order Traversal](https://leetcode.com/problems/n-ary-tree-level-order-traversal/) | [View](./Tree/N-AryTreeLevelOrderTraversal.cpp) | Medium |||
 0230 | [Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/) | [View](./Tree/KthSmallestElementInABST.cpp) | Medium |||
-
+0096 | [Unique Binary Search Trees](https://leetcode.com/problems/unique-binary-search-trees/) | [View](./Tree/UniqueBinarySearchTrees.cpp) | Medium |||
 
 ## Union Find
 |  #  | Title           |  Solution       | Difficulty    |
