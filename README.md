@@ -2,11 +2,11 @@
 
 
 ![Language](https://img.shields.io/badge/Language-C%2B%2B-important)&nbsp;
-![Programs](https://img.shields.io/badge/Programs-100-blueviolet)&nbsp;
+![Programs](https://img.shields.io/badge/Programs-106-blueviolet)&nbsp;
 ![Update](https://img.shields.io/badge/Update-Daily-brightgreen)&nbsp;
 [![License](https://img.shields.io/badge/License-MIT-informational)](./LICENSE.md)&nbsp;<br><br>
-![Easy](https://img.shields.io/badge/Easy-32-success)&nbsp;
-![Medium](https://img.shields.io/badge/Medium-68-orange)&nbsp;
+![Easy](https://img.shields.io/badge/Easy-33-success)&nbsp;
+![Medium](https://img.shields.io/badge/Medium-69-orange)&nbsp;
 ![Hard](https://img.shields.io/badge/Hard-4-red)
 
 ## Array 
@@ -22,6 +22,7 @@
 0287 | [Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/) | [View](./Array/FindTheDuplicateNumber.cpp) | Medium |||
 1481 | [Least Number of Unique Integers after K Removals](https://leetcode.com/problems/least-number-of-unique-integers-after-k-removals/) | [View](./Array/LeastNumberOfUniqueIntegersAfterKRemovals.cpp) | Medium 
 |||
+0485 | [Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones/) | [View](./Array/MaxConsecutiveOnes.cpp) | Easy |||
 0004 | [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/) | [View](./Array/MedianOfTwoSortedArrays.cpp) | Hard |||
 0918 | [Maximum Sum Circular Subarray](https://leetcode.com/problems/maximum-sum-circular-subarray/) | [View](./Array/MaximumSumCircularSubarray.cpp) | Medium |||
 0496 | [Next Greater Element I](https://leetcode.com/problems/next-greater-element-i/) | [View](./Array/NextGreaterElementI.cpp) | Easy |||
@@ -114,6 +115,7 @@
 |-----|---------------- | --------------- |------------- |
 0904 | [Fruit Into Baskets](https://leetcode.com/problems/fruit-into-baskets/) | [View](./SlidingWindow/FruitsIntoBaskets.cpp) | Medium |||
 1052 | [Grumpy Bookstore Owner](https://leetcode.com/problems/grumpy-bookstore-owner/) | [View](./SlidingWindow/GrumpyBookstoreOwner.cpp) | Medium |||
+1438 | [ Longest Continuous Subarray With Absolute Diff Less Than or Equal to Limit](https://leetcode.com/problems/replace-the-substring-for-balanced-string/) | [View](./SlidingWindow/LongestContinuousSubarrayWithAbsoluteDiffLessThanOrEqualToLimit.cpp) | Medium |||
 1004 | [Max Consecutive Ones III](https://leetcode.com/problems/max-consecutive-ones-iii/) | [View](./SlidingWindow/MaxConsecutiveOnesIII.cpp) | Medium |||
 1358 | [Number of Substrings Containing All Three Characters](https://leetcode.com/problems/number-of-substrings-containing-all-three-characters/) | [View](./SlidingWindow/NumberOfSubstringsContainingAllThreeCharacters.cpp) | Medium |||
 1234 | [Replace the Substring for Balanced String](https://leetcode.com/problems/replace-the-substring-for-balanced-string/) | [View](./SlidingWindow/ReplaceTheSubstringForBalancedString.cpp) | Medium |||
