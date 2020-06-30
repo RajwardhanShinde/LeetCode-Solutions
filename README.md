@@ -6,8 +6,8 @@
 ![Update](https://img.shields.io/badge/Update-Daily-brightgreen)&nbsp;
 [![License](https://img.shields.io/badge/License-MIT-informational)](./LICENSE.md)&nbsp;<br><br>
 ![Easy](https://img.shields.io/badge/Easy-32-success)&nbsp;
-![Medium](https://img.shields.io/badge/Medium-65-orange)&nbsp;
-![Hard](https://img.shields.io/badge/Hard-3-red)
+![Medium](https://img.shields.io/badge/Medium-68-orange)&nbsp;
+![Hard](https://img.shields.io/badge/Hard-4-red)
 
 ## Array 
 |  #  | Title           |  Solution       | Difficulty    |
@@ -141,6 +141,14 @@
 0429 | [N-ary Tree Level Order Traversal](https://leetcode.com/problems/n-ary-tree-level-order-traversal/) | [View](./Tree/N-AryTreeLevelOrderTraversal.cpp) | Medium |||
 0230 | [Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/) | [View](./Tree/KthSmallestElementInABST.cpp) | Medium |||
 0096 | [Unique Binary Search Trees](https://leetcode.com/problems/unique-binary-search-trees/) | [View](./Tree/UniqueBinarySearchTrees.cpp) | Medium |||
+
+## Trie
+|  #  | Title           |  Solution       | Difficulty    |
+|-----|---------------- | --------------- |------------- |
+0208 | [Implement Trie (Prefix Tree)](https://leetcode.com/problems/implement-trie-prefix-tree/) | [View](./Trie/ImplementTrie-PrefixTree.cpp) | Medium |||
+0211 | [Add and Search Word - Data structure design](https://leetcode.com/problems/add-and-search-word-data-structure-design/) | [View](./Trie/AddAndSearchWord-DataStructureDesign.cpp) | Medium |||
+0648 | [Replace Words](https://leetcode.com/problems/replace-words/) | [View](./Trie/ReplaceWords.cpp) | Medium |||
+0212 | [Word Search II](https://leetcode.com/problems/word-replace-ii/) | [View](./Trie/WordSearchII.cpp) | Hard |||
 
 ## Union Find
 |  #  | Title           |  Solution       | Difficulty    |
